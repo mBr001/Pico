@@ -40,7 +40,7 @@
  * @author  Daniel Rudolf
  * @link    http://picocms.org
  * @license http://opensource.org/licenses/MIT The MIT License
- * @version 2.0
+ * @version 3.0
  */
 class Pico
 {
@@ -49,14 +49,14 @@ class Pico
      *
      * @var string
      */
-    const VERSION = '2.0.5-beta.1';
+    const VERSION = '3.0.0-nightly';
 
     /**
      * Pico version ID
      *
      * @var int
      */
-    const VERSION_ID = 20005;
+    const VERSION_ID = 30000;
 
     /**
      * Pico API version
